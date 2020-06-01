@@ -5,6 +5,8 @@ which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+![sample_workshop_project.png](./diagrams/sample_workshop_project.png)
+
 ## Useful cdk commands
 
  * `cdk deploy`      deploy this stack to your default AWS account/region
